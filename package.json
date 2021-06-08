@@ -1,0 +1,15 @@
+{
+  "name": "jaksofi-podcast-scraper",
+  "version": "1.0.0",
+  "description": "Jakso.fi podcast scraper",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Jesse Rauha <jesse.rauha@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "jsdom": "^16.6.0",
+    "node-fetch": "^2.6.1"
+  }
+}
