@@ -23,7 +23,7 @@ const run = async () => {
       data.push({
         title: node.children[1]?.innerHTML,
         feedUrl: node.children[2]?.href,
-        itunesUrl: node.children[3]?.href,
+        iTunesUrl: node.children[3]?.href,
       });
     });
 
